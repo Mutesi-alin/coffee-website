@@ -32,7 +32,7 @@ header .navbar {
 }
 
 .navbar .logo span {
-  color: #C06B3E;
+  color: #e7dcd5;
   font-size: xx-large;
 }
 
@@ -46,9 +46,11 @@ a{
 }
 
 .navbar a {
-  color:#C06B3E;
+  color:#ebe4e1;
   text-decoration: none;
   transition: 0.2s ease;
+  font-size: large;
+  font-weight: 84px;
 }
 
 .navbar a:hover {
@@ -98,7 +100,7 @@ a{
 
 .hero-section .content button:hover {
   color: #fff;
-  background: #C06B3E;
+  background: white;
 }
 
 #close-menu-btn {
